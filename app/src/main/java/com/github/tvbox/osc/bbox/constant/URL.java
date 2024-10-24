@@ -12,12 +12,12 @@ public class URL {
     // https://ghproxy.com/https://raw.githubusercontent.com//mlabalabala/TVResource/main/boxCfg/ori_source.json
     // https://raw.bunnylblbblbl.eu.org/https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/ori_source.json
     // 默认线路
-    public static final String DEFAULT_API_URL = "https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/default";
-    // public static final String DEFAULT_API_URL = "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json";
+    public static final String DEFAULT_API_URL = "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duo.txt";
+    // public static final String DEFAULT_API_URL = "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dck/duo.txt";
     // 默认仓库线路
-    public static final String DEFAULT_STORE_API_URL = "https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/ori_source.json";
+    public static final String DEFAULT_STORE_API_URL = "https://raw.kkgithub.com/jixiejishu/tvboxinformation/main/tvboxtools/jk/dxl/T%26SN.txt";
     // 默认直播线路
-    public static final String DEFAULT_LIVE_URL = "https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/live.txt";
+    public static final String DEFAULT_LIVE_URL = "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u";
 
 
 }
